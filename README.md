@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jpv88
+- 👋 Hi, I’m Jared
 - 👀 As an iOS developer, I am interested in Apple technologies.
 - 🌱 This is my ✨special✨ repository. Here you will find some personal tests on various types of architectures, components, etc.
 
